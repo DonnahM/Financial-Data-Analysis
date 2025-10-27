@@ -1,7 +1,7 @@
 # **Financial Data Exploration: NIFTY50 Case Study**
 
 ## **Overview**  
-This project presents an exploratory analysis of the **NIFTY50 Index**, which represents 50 major companies listed on the National Stock Exchange of India (NSE). Although the dataset focuses on the Indian market, the analytical process used here—examining returns, volatility, and risk-adjusted performance—can be applied to financial data from any market globally.  
+This project presents an exploratory analysis of the **NIFTY50 Index**, which represents 50 major companies listed on the National Stock Exchange of India (NSE). Although the dataset focuses on the Indian market, the analytical process used here examining returns, volatility, and risk-adjusted performance can be applied to financial data from any market globally.  
 
 The analysis focuses on understanding stock behavior, assessing market risk, and evaluating portfolio performance through statistical and financial metrics. It demonstrates how financial data analysis techniques can support investment insights and decision-making.
 
