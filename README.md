@@ -65,5 +65,5 @@ Although based on a limited timeframe, the findings highlight the importance of 
 ---
 
 ## **Tools and Technologies**  
-**Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Jupyter Notebook** were used for data processing, computation, and visualization.  
+**Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** and **Jupyter Notebook** were used for data processing, computation, and visualization.  
 
